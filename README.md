@@ -71,6 +71,15 @@ This repository contains a Django project with a RESTful API using Django REST F
 
 ---
 
+## Retrieve Vendor
+  - GET /vendors/<vendor_id>/
+
+
+##  Delete Vendor
+  - DELETE /vendors/<vendor_id>/
+
+
+
 ## Access Django Admin:
 Open the Django admin at http://127.0.0.1:8000/admin/ and log in using the superuser credentials. 
 
